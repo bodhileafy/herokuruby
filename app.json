@@ -1,0 +1,7 @@
+{
+  "name": "Heroku Ruby Puma Sample",
+  "description": "A barebone Ruby app using Puma",
+  "repository": "https://github.com/bodhileafy/herokuruby",
+  "logo": "https://herokuruby.herokuapp.com/ruby.png",
+  "keywords": ["ruby", "puma"]
+}

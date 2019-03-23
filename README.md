@@ -1,1 +1,2 @@
-heroku pure ruby handling using Procfile to define Process Type and bundle exec puma -p $PORT -C config/puma.rb
+heroku pure ruby handling no Procfile to show Heroku app error.
+

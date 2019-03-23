@@ -1,5 +1,5 @@
 {
-  "name": "Heroku Ruby Rack Sample",
+  "name": "Heroku Ruby Rack Sinatra Sample",
   "description": "A working barebone Ruby app using Rack to launch Sinatra framework",
   "repository": "https://github.com/bodhileafy/herokuruby/tree/rack-sinatra",
   "logo": "https://herokuruby.herokuapp.com/ruby.png",

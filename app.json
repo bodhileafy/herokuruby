@@ -1,6 +1,6 @@
 {
   "name": "Heroku Ruby Puma No Procfile Sample",
-  "description": "A barebone Ruby app using Puma without Procfile to show Heroku App Error.",
+  "description": "A not working barebone Ruby app using Puma without Procfile to show Heroku App Error.",
   "repository": "https://github.com/bodhileafy/herokuruby/tree/noprocfile",
   "logo": "https://herokuruby.herokuapp.com/ruby.png",
   "keywords": ["ruby", "puma"]

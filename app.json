@@ -1,7 +1,7 @@
 {
-  "name": "Heroku Ruby Puma Sample",
-  "description": "A working barebone Ruby app using Puma",
-  "repository": "https://github.com/bodhileafy/herokuruby/tree/master",
+  "name": "Heroku Ruby Rack Proc Sample",
+  "description": "A working barebone Ruby app using Rack Proc",
+  "repository": "https://github.com/bodhileafy/herokuruby/tree/rack-proc",
   "logo": "https://herokuruby.herokuapp.com/ruby.png",
-  "keywords": ["ruby", "puma"]
+  "keywords": ["ruby", "rack", "proc"]
 }

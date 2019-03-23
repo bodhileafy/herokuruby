@@ -1,7 +1,7 @@
 {
-  "name": "Heroku Ruby Puma Sample",
-  "description": "A working barebone Ruby app using Puma",
-  "repository": "https://github.com/bodhileafy/herokuruby/tree/master",
+  "name": "Heroku Ruby Rack Sample",
+  "description": "A working barebone Ruby app using Rack to launch Sinatra framework",
+  "repository": "https://github.com/bodhileafy/herokuruby/tree/rack-sinatra",
   "logo": "https://herokuruby.herokuapp.com/ruby.png",
-  "keywords": ["ruby", "puma"]
+  "keywords": ["ruby", "rack", "sinatra"]
 }

@@ -1,5 +1,1 @@
-heroku pure ruby handling
-
-No config.ru file, only Procfile to bundle exec puma
-
-The .ru extension stands for Rack's rackup executable
+heroku pure ruby handling using Procfile to define Process Type and bundle exec puma -p $PORT -C config/puma.rb
